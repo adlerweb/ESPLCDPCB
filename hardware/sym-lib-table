@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name esplcd)(type Legacy)(uri ${KIPRJMOD}/esplcd.lib)(options "")(descr ""))
+  (lib (name ESPLCD-rescue)(type Legacy)(uri ${KIPRJMOD}/ESPLCD-rescue.lib)(options "")(descr ""))
+)
